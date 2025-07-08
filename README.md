@@ -110,7 +110,7 @@ If you're a:
 
 ## 🔜 License
 
-*A custom license for this project will be added soon.*
+*A custom license has been added for this project, Check that !*
 
 ---
 
